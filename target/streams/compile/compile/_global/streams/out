@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/scala/Session2-Assignment1/src/main/scala/SquareList.scala:14:14: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[Int][0m
+[0m[[0m[31merror[0m] [0m[0m      println(s"Caught NullPointerException: ${e.getMessage}")[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/knoldus/Downloads/scala/Session2-Assignment1/src/main/scala/SquareList.scala:23:14: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Unit[0m
+[0m[[0m[31merror[0m] [0m[0m required: List[Int][0m
+[0m[[0m[31merror[0m] [0m[0m      println(s"Caught NumberFormatException: ${e.getMessage}")[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
